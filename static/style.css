@@ -1,0 +1,24 @@
+body {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.logo-name {
+    color: #364f6b;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.description > h1 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'comic sans ms';
+    color: #364f6b;
+}
+
+.text-navy {
+    color: #364f6b;
+}
+
+.herosection{
+    flex-wrap: wrap;
+}
+
